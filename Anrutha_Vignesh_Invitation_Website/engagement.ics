@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vignesh and Amrutha//Nichayathartham//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:vignesh-amrutha-nichayathartham-20261115@example.invalid
+DTSTAMP:20261020T000000Z
+DTSTART:20261115T123000Z
+DTEND:20261115T153000Z
+SUMMARY:Vignesh & Amrutha - Nichayathartham
+LOCATION:Agaram Palace, Nallathannikulam South Street, Agaram Main Road, Agaramthen, Chennai, Tamil Nadu 600126
+DESCRIPTION:Engagement ceremony of Vignesh and Amrutha. Directions: https://www.google.com/maps/dir/?api=1&destination=Agaram+Palace%2C+Nallathannikulam+South+Street%2C+Agaram+Main+Road%2C+Agaramthen%2C+Chennai%2C+Tamil+Nadu+600126
+END:VEVENT
+END:VCALENDAR
